@@ -35,8 +35,8 @@ criarCartao(
     'Rio Amazonas'
 )
 criarCartao(
-    'Categoria',
-    'Perginta',
+    'Geografia',
+    'Qual',
     'Resposta'
 )
 criarCartao(
