@@ -41,3 +41,6 @@ font-weight: 500;
     font-weight: 700;
     
 }
+.cartao.active.cartao_conteudo{
+    transform: rotate(180deg);
+}
