@@ -1,7 +1,7 @@
 criarCartao(
-    'Categoria',
-    'Perginta',
-    'Resposta'
+    'Geografia',
+    'Qual é o maior país do mundo em extensão territorial?',
+    'Rússia'
 )
  criarCartao(
     'Geografia',
@@ -36,26 +36,26 @@ criarCartao(
 )
 criarCartao(
     'Geografia',
-    'Qual',
-    'Resposta'
+    'Qual é a capital do Paraná?',
+    'Curitiba'
 )
 criarCartao(
-    'Categoria',
-    'Perginta',
-    'Resposta'
+    'Geografia',
+    'Qual é o maior estado do Brasil em extensão territorial?',
+    'Amazonas'
 )
 criarCartao(
-    'Categoria',
-    'Perginta',
-    'Resposta'
+    'Geografia',
+    'Em qual hemisfério o  Brasil está localizado principalmente?',
+    'No Sul'
 )
 criarCartao(
-    'Categoria',
-    'Perginta',
-    'Resposta'
+    'Geografia',
+    'Qual é o maior continente do mundo?',
+    'Ásia'
 )
 criarCartao(
-    'Categoria',
-    'Perginta',
-    'Resposta'
+    'Geografia',
+    'Como se chama uma grande elevação natural no terreno?',
+    'Montanha'
 )
