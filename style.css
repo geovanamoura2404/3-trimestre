@@ -31,10 +31,13 @@ body{
     font-size:  1.4vw;
 }
 
-.Cartao__conteudo__pergunta{
-
+.Cartao__conteudo__pergunta p{
+color: var(--cor-texto);
+font-weight: 500;
 }
 
-.Cartao__conteudo__resposta{
+.Cartao__conteudo__resposta p{
+    color: var(--verso-cartao);
+    font-weight: 700;
     
 }
