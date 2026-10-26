@@ -10,6 +10,13 @@ body{
     background-color: var(--fundo);
 }
 
+.cartao{
+    margin: 1rem;
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33%-0.6rem);
+}
+
 .Cartao__conteudo{
     background-color: var(--frente-cartao);
     text-align:center;
